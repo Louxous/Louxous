@@ -1,0 +1,23 @@
+body {
+    font-family: "Helvetica";
+    background-color: rgb(163, 163, 163);
+    text-align: center;
+}
+a {
+    color: green;
+}
+.Tigrouquiseleche {
+    width: 650px;
+    height: 400px;
+}
+.Tigrou {
+    width: 500px;
+    height: 400px;
+}
+p {
+    font-weight: 750;
+}
+.easter-egg {
+    color: rgb(163, 163, 163);
+}
+

@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background-color: black;
+    font-family: "Helvetica";
+}
+p {
+    color: green;
+}
+img {
+    width: 900px;
+    height: 300px;
+}
